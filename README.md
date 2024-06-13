@@ -18,3 +18,6 @@
 git clone https://github.com/kanu-cast/photo-gallery.git
 ```
 * Once cloned run gallery.html in any browser of your choice, be sure to hover over the images to get a feel of the amazing animations and hover effects
+
+## Deployedd Link
+https://coa-photo-gallery.netlify.app/
